@@ -1,4 +1,7 @@
+# This project has been moved to [GitLab](https://gitlab.com/infvie/sokol)
+ 
 # Baseball Pitcher Analysis 
+
 ## Authors: Ryan Arrison, Sreenath Raparti, and Joel Sokol
 
 # Data Layout
